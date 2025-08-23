@@ -34,7 +34,7 @@ export default function About() {
                             </h2>
                             <p className="text-lg text-gray-600 mb-6">
                                 At Keepers Being Spotless (KBS), we help homes and businesses maintain flawless, hygienic environments. 
-                                Whether it's a bustling office, a serene hotel room, or your cozy home, our team delivers 
+                                Whether it is a bustling office, a serene hotel room, or your cozy home, our team delivers 
                                 professional-grade cleaning with unmatched reliability.
                             </p>
                             <p className="text-lg text-gray-600 mb-6">
@@ -43,7 +43,7 @@ export default function About() {
                                 Whether you need daily maintenance or a one-time transformation, we make the process seamless and stress-free.
                             </p>
                             <p className="text-lg text-gray-600">
-                                Your peace of mind is our mission. Let's make your space spotless, together.
+                                Your peace of mind is our mission. Lets make your space spotless, together.
                             </p>
                         </div>
                         <div className="bg-gray-100 p-8 rounded-lg">
