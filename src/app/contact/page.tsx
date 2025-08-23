@@ -27,11 +27,11 @@ export default function Contact() {
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-            
+
             {/* Contact Information */}
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-8">Get in Touch</h2>
-              
+
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
                   <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
@@ -45,7 +45,7 @@ export default function Contact() {
                     <p className="text-sm text-gray-500">Available 24/7 for urgent cleaning needs</p>
                   </div>
                 </div>
-                
+
                 <div className="flex items-start space-x-4">
                   <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
                     <svg className="w-4 h-4 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -58,7 +58,7 @@ export default function Contact() {
                     <p className="text-sm text-gray-500">We respond within 2 hours during business hours</p>
                   </div>
                 </div>
-                
+
                 <div className="flex items-start space-x-4">
                   <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
                     <svg className="w-4 h-4 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -71,7 +71,7 @@ export default function Contact() {
                     <p className="text-sm text-gray-500">Follow us on Instagram for updates</p>
                   </div>
                 </div>
-                
+
                 <div className="flex items-start space-x-4">
                   <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
                     <svg className="w-4 h-4 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -141,8 +141,8 @@ export default function Contact() {
             {/* Contact Form */}
             <div className="bg-white p-8 rounded-lg shadow-lg">
               <h2 className="text-2xl font-bold text-gray-900 mb-6">Send us a Message</h2>
-              
-              <form action="mailto:keepersbeingspotless@gmail.com" method="post" encType="text/plain" className="space-y-6">
+
+              <form action="https://formspree.io/f/mnnbaaqd" method="POST" className="space-y-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div>
                     <label htmlFor="firstName" className="block text-sm font-medium text-gray-700 mb-2">
@@ -169,7 +169,7 @@ export default function Contact() {
                     />
                   </div>
                 </div>
-                
+
                 <div>
                   <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
                     Email Address *
@@ -182,7 +182,7 @@ export default function Contact() {
                     className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                   />
                 </div>
-                
+
                 <div>
                   <label htmlFor="phone" className="block text-sm font-medium text-gray-700 mb-2">
                     Phone Number
@@ -194,7 +194,7 @@ export default function Contact() {
                     className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                   />
                 </div>
-                
+
                 <div>
                   <label htmlFor="company" className="block text-sm font-medium text-gray-700 mb-2">
                     Company Name
@@ -206,7 +206,7 @@ export default function Contact() {
                     className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                   />
                 </div>
-                
+
                 <div>
                   <label htmlFor="inquiryType" className="block text-sm font-medium text-gray-700 mb-2">
                     Inquiry Type *
@@ -227,7 +227,7 @@ export default function Contact() {
                     <option value="partnership">Partnership opportunity</option>
                   </select>
                 </div>
-                
+
                 <div>
                   <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
                     Message *
@@ -241,7 +241,7 @@ export default function Contact() {
                     placeholder="Please describe your cleaning needs or inquiry..."
                   ></textarea>
                 </div>
-                
+
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <button
                     type="submit"
@@ -273,7 +273,7 @@ export default function Contact() {
               We provide professional cleaning services across multiple locations and regions.
             </p>
           </div>
-          
+
           {/* Service Areas */}
           <div className="bg-gradient-to-r from-blue-50 to-blue-100 p-8 rounded-lg">
             <div className="text-center">
@@ -283,7 +283,7 @@ export default function Contact() {
               </svg>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">We Serve Multiple Locations</h3>
               <p className="text-gray-700 mb-6">
-                Our professional cleaning teams are available across various cities and regions. 
+                Our professional cleaning teams are available across various cities and regions.
                 Contact us to confirm service availability in your area.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-gray-600">
