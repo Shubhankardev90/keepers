@@ -33,17 +33,17 @@ export default function About() {
                                 Our Story
                             </h2>
                             <p className="text-lg text-gray-600 mb-6">
-                                At Keepers Being Spotless (KBS), we help homes and businesses maintain flawless, hygienic environments. 
-                                Whether it is a bustling office, a serene hotel room, or your cozy home, our team delivers 
+                                At Keepers Being Spotless (KBS), we help homes and businesses maintain flawless, hygienic environments.
+                                Whether it is a bustling office, a serene hotel room, or your cozy home, our team delivers
                                 professional-grade cleaning with unmatched reliability.
                             </p>
                             <p className="text-lg text-gray-600 mb-6">
-                                We combine expertise, eco-friendly products, and a passion for cleanliness to provide tailored 
-                                services—from routine residential upkeep to commercial deep cleans and specialized disinfection. 
+                                We combine expertise, eco-friendly products, and a passion for cleanliness to provide tailored
+                                services—from routine residential upkeep to commercial deep cleans and specialized disinfection.
                                 Whether you need daily maintenance or a one-time transformation, we make the process seamless and stress-free.
                             </p>
                             <p className="text-lg text-gray-600">
-                                Your peace of mind is our mission. Lets make your space spotless, together.
+                                Your peace of mind is our mission. Let's make your space spotless, together.
                             </p>
                         </div>
                         <div className="bg-gray-100 p-8 rounded-lg">
@@ -82,7 +82,7 @@ export default function About() {
                             </div>
                             <h3 className="text-2xl font-bold mb-4">Our Mission</h3>
                             <p className="text-gray-600">
-                                To create immaculate environments that uplift lifestyles and elevate businesses through 
+                                To create immaculate environments that uplift lifestyles and elevate businesses through
                                 eco-friendly, efficient, and reliable cleaning services tailored to unique needs.
                             </p>
                         </div>
@@ -96,7 +96,7 @@ export default function About() {
                             </div>
                             <h3 className="text-2xl font-bold mb-4">Our Vision</h3>
                             <p className="text-gray-600">
-                                To be the most trusted name in professional cleaning services, delivering peace of mind 
+                                To be the most trusted name in professional cleaning services, delivering peace of mind
                                 through sparkling spaces where cleanliness equals comfort and care.
                             </p>
                         </div>
@@ -109,7 +109,7 @@ export default function About() {
                             </div>
                             <h3 className="text-2xl font-bold mb-4">Our Values</h3>
                             <p className="text-gray-600">
-                                Excellence, reliability, sustainability, and respect guide everything we do. We believe in 
+                                Excellence, reliability, sustainability, and respect guide everything we do. We believe in
                                 delivering superior results while protecting people and the planet.
                             </p>
                         </div>
