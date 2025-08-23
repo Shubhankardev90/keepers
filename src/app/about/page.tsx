@@ -43,7 +43,7 @@ export default function About() {
                                 Whether you need daily maintenance or a one-time transformation, we make the process seamless and stress-free.
                             </p>
                             <p className="text-lg text-gray-600">
-                                Your peace of mind is our mission. Let make your space spotless, together.
+                                Your peace of mind is our mission. Let&apos;s make your space spotless, together.
                             </p>
                         </div>
                         <div className="bg-gray-100 p-8 rounded-lg">
