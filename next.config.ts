@@ -6,10 +6,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Enable static generation for better SEO
-  experimental: {
-    optimizeCss: true,
-  },
 };
 
 export default nextConfig;
