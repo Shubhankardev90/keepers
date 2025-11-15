@@ -47,7 +47,7 @@ export default function RootLayout({
     "logo": "https://keeperbeingspotless.com/logo.png",
     "image": "https://keeperbeingspotless.com/hero-image.jpg",
     "telephone": "+91 99908 56558",
-    "email": "keepersbeingspotless@gmail.com",
+    "email": "admin@keepersbeingspotless.com",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+91 99908 56558",
